@@ -51,6 +51,7 @@ This project demonstrates how naive row-level logic can produce misleading resul
 ---
 
 ## 📁 Structure
+<img width="402" height="206" alt="image" src="https://github.com/user-attachments/assets/2e212f15-aa12-4453-8609-bb9edb35463c" />
 
 
 
